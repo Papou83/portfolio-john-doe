@@ -30,12 +30,12 @@ function Home() {
             <h2 className="text-dark">A propos</h2>
             <hr className="border-primary border-2" />
             <img src="https://picsum.photos/400/300" alt="John Doe" className="img-fluid mb-3" />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>"Développeur Web fraîchement diplômé du CEF (Centre Européen de Formation), je combine une maîtrise technique des langages modernes et une forte capacité d'adaptation. 
+              Passionné par la résolution de problèmes et l'expérience utilisateur, je suis prêt à mettre mon énergie et mes compétences au service de projets innovants au sein d'une équipe dynamique.".</p>
           </div>
+          <hr className="border-primary border-2" />
           <div className="col-md-6">
-            <h2>Mes compétences</h2>
+            <h2 className="text-dark">Mes compétences</h2>
             <hr className="border-primary border-2" />
             <p>HTML5 90%</p>
             <div className="progress mb-3">

@@ -7,8 +7,8 @@ function Footer() {
         <div className="row">
           <div className="col-md-4">
             <h5>John Doe</h5>
-            <p>123 Rue de la Paix<br />75000 Paris</p>
-            <p>📞 06 00 00 00 00</p>
+            <p>123 Rue de la Paix<br />83700 Saint Raphael</p>
+            <p>📞 06 18 22 03 09</p>
             <div className="d-flex gap-3">
               <a href="https://github.com" target="_blank" rel="nofollow noopener noreferrer" className="text-white">GitHub</a>
               <a href="https://twitter.com" target="_blank" rel="nofollow noopener noreferrer" className="text-white">Twitter</a>

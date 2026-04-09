@@ -18,7 +18,7 @@ function MentionsLegales() {
           <div id="editeur" className="accordion-collapse collapse show" data-bs-parent="#accordionMentions">
             <div className="accordion-body">
               <p>John Doe</p>
-              <p>40 rue Laure Diebold, 69009 Lyon, France</p>
+              <p>123 Rue de la Paix, 83700 Saint Raphael, France</p>
               <p>john.doe@gmail.com</p>
             </div>
           </div>
