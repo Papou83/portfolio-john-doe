@@ -10,7 +10,7 @@ function Portfolio() {
 
   return (
     <div className="container my-5">
-      <h1 className="text-center mb-5">Mes Réalisations</h1>
+      <h1 className="text-dark">Mes Réalisations</h1>
       <div className="row">
         {projets.map((projet, index) => (
           <div className="col-md-4 mb-4" key={index}>

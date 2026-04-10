@@ -6,7 +6,7 @@ function MentionsLegales() {
       <Helmet>
         <meta name="robots" content="noindex" />
       </Helmet>
-      <h1 className="text-center mb-5">Mentions Légales</h1>
+      <h1 className="text-dark">Mentions Légales</h1>
       <div className="accordion" id="accordionMentions">
 
         <div className="accordion-item">

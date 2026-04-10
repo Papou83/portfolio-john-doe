@@ -1,7 +1,7 @@
 function Services() {
   return (
     <div className="container my-5">
-      <h1 className="text-center mb-5">Mes Services</h1>
+      <h1 className="text-dark">Mes Services</h1>
       <div className="row">
 
         <div className="col-md-4 mb-4">
